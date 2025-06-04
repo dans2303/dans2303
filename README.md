@@ -6,8 +6,9 @@
 
 ## 📌 Featured Projects
 
-- 🧠 [Parkinson Detection via MDVP Features](https://github.com/your-username/...)  
-  Machine learning model using XGBoost, SVM, and Gradient Boosting for early diagnosis.
+- ### [🧠 Parkinson Detection using MDVP Features](https://github.com/dans2303/parkinson-mdvp-matlab)
+Early detection of Parkinson’s Disease using jitter, shimmer, and other voice features.  
+Includes MATLAB-based signal analysis, theory explanation, and machine learning pipeline.
 
 - 🎤 [Voice Spectrogram Parkinson Classifier](https://github.com/your-username/...)  
   CNN-based classifier using spectrograms of voice recordings.
