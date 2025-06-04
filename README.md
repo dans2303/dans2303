@@ -17,4 +17,4 @@
 
 ---
 
-📫 Reach me: danstandjung@gmail.com | [LinkedIn](https://www.linkedin.com/in/mirnadanisatandjung/)
+📫 Reach me: mirnadanisat@gmail.com | [LinkedIn](https://www.linkedin.com/in/mirnadanisatandjung/)
