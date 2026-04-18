@@ -1,21 +1,60 @@
-# Hi, I'm Danisa 👋
+## Hi, I'm Danisa 👋
 
-🌱 Biomedical AI Researcher | Machine Learning | Python | FastAPI  
-🔬 Focused on Parkinson's Disease Detection using Voice Analysis  
-📂 Browse my projects below or connect with me!
-
-## 📌 Featured Projects
-
-- ### [🧠 Parkinson Detection using MDVP Features](https://github.com/dans2303/parkinson-mdvp-matlab)
-Early detection of Parkinson’s Disease using jitter, shimmer, and other voice features.  
-Includes MATLAB-based signal analysis, theory explanation, and machine learning pipeline.
-
-- 🎤 [Voice Spectrogram Parkinson Classifier](https://github.com/your-username/...)  
-  CNN-based classifier using spectrograms of voice recordings.
-
-- 🌐 [FastAPI Web Service for Inference](https://github.com/your-username/...)  
-  Hosted inference API for real-time Parkinson predictions.
+🎓 M.Sc. Electrical Engineering — National Central University, Taiwan
+🌱 Biomedical AI Researcher | Machine Learning | Python | FastAPI
+🔬 Focused on Parkinson’s Disease Detection using Voice & AI
+📊 Experienced in building **end-to-end ML pipelines with model comparison and evaluation**
+🚀 Currently expanding into **Deep Learning (FastAI, CNNs)**
 
 ---
 
-📫 Reach me: mirnadanisat@gmail.com | [LinkedIn](https://www.linkedin.com/in/mirnadanisatandjung/)
+## 📌 Featured Projects
+
+### 🧠 Parkinson’s Disease Detection (Gradient Boosting + XGBoost)
+
+End-to-end machine learning pipeline for early PD detection using biomedical voice features.
+
+* Data preprocessing & feature engineering
+* Class imbalance handling (SMOTETomek)
+* Cross-validation (GridSearchCV)
+* Model comparison: **Gradient Boosting vs XGBoost**
+* Evaluation: Accuracy, ROC-AUC, MCC
+* Visualization: ROC curve, confusion matrix, feature importance
+
+👉 Result: Achieved **97.8% accuracy with XGBoost** and strong MCC performance
+
+---
+
+### 🎤 Voice Spectrogram Parkinson Classifier (CNN)
+
+Deep learning approach using spectrogram representations of voice signals.
+
+* Audio → spectrogram transformation
+* CNN-based classification
+* Exploring non-linear feature extraction for PD detection
+
+---
+
+### 🌐 FastAPI Inference API
+
+Deployment-ready API for real-time Parkinson prediction.
+
+* Built with FastAPI
+* Accepts input features → returns prediction
+* Designed for scalable AI inference
+
+---
+
+## 🧠 Research Interests
+
+* Biomedical Signal Processing
+* Machine Learning for Healthcare
+* Early Disease Detection
+* AI for Non-Invasive Diagnostics
+
+---
+
+## 📫 Contact
+
+📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
