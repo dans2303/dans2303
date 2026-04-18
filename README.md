@@ -1,10 +1,15 @@
 ## Hi, I'm Danisa 👋
 
 🎓 M.Sc. Electrical Engineering — National Central University, Taiwan
+
 🌱 Biomedical AI Researcher
+
 💻 Machine Learning | Python | FastAPI
+
 🔬 Focused on Parkinson’s Disease Detection using Voice & AI
+
 📊 Experienced in building end-to-end ML pipelines with model comparison and evaluation
+
 🚀 Currently expanding into Deep Learning (FastAI, CNNs)
 
 ---
