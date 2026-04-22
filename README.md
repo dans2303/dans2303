@@ -1,66 +1,52 @@
-## Hi, I'm Danisa 👋
+Hi, I'm Danisa 👋
 
-🎓 M.Sc. Electrical Engineering — National Central University, Taiwan
+🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)
 
-🌱 Biomedical AI Researcher
+🔬 Biomedical AI | Machine Learning | Deep Learning
 
-💻 Machine Learning | Python | FastAPI
-
-🔬 Focused on Parkinson’s Disease Detection using Voice & AI
-
-📊 Experienced in building end-to-end ML pipelines with model comparison and evaluation
-
-🚀 Currently expanding into Deep Learning (FastAI, CNNs)
+🎯 Focus: Parkinson’s Disease Detection using Voice Analysis
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Featured Work
 
-### 🧠 Parkinson’s Disease Detection (Gradient Boosting + XGBoost)
+### 🔹 Parkinson’s Disease Detection (End-to-End Pipeline)
 
-End-to-end machine learning pipeline for early PD detection using biomedical voice features.
+A complete research-oriented pipeline combining:
 
-* Data preprocessing & feature engineering
-* Class imbalance handling (SMOTETomek)
-* Cross-validation (GridSearchCV)
-* Model comparison: **Gradient Boosting vs XGBoost**
-* Evaluation: Accuracy, ROC-AUC, MCC
-* Visualization: ROC curve, confusion matrix, feature importance
+* 📊 Machine Learning → Gradient Boosting, XGBoost
+* 🤖 Deep Learning → FastAI Tabular
+* ⚖️ Model comparison (ML vs Deep Learning)
+* 🎤 Voice-based biomedical feature analysis
 
-👉 Result: Achieved **97.8% accuracy with XGBoost** and strong MCC performance
+📌 Repositories:
 
----
-
-### 🎤 Voice Spectrogram Parkinson Classifier (CNN)
-
-Deep learning approach using spectrogram representations of voice signals.
-
-* Audio → spectrogram transformation
-* CNN-based classification
-* Exploring non-linear feature extraction for PD detection
+* https://github.com/dans2303/parkinsons-fastai
+* https://github.com/dans2303/parkinsons-xgboost
+* https://github.com/dans2303/parkinson-mdvp-matlab
 
 ---
 
-### 🌐 FastAPI Inference API
+## 🚀 What I Do
 
-Deployment-ready API for real-time Parkinson prediction.
-
-* Built with FastAPI
-* Accepts input features → returns prediction
-* Designed for scalable AI inference
+* Build machine learning pipelines for biomedical data
+* Apply deep learning to structured/tabular datasets
+* Analyze voice-based biomarkers for disease detection
+* Focus on interpretable and practical AI systems
 
 ---
 
-## 🧠 Research Interests
+## 🎯 Current Focus
 
-* Biomedical Signal Processing
-* Machine Learning for Healthcare
-* Early Disease Detection
-* AI for Non-Invasive Diagnostics
+* Expanding biomedical AI projects
+* Improving model robustness and evaluation
+* Preparing for PhD-level research in AI/ML
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
+
+* 📧 [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
+
+* 🔗 https://www.linkedin.com/in/mirnadanisatandjung/
