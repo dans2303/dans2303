@@ -27,6 +27,29 @@ A complete research-oriented pipeline combining:
 
 ---
 
+## 📄 Research
+
+### 🔹 FastAI Tabular Learner Model for Parkinson’s Disease Identification
+
+📍 IEEE International Conference on Orange Technology (ICOT)
+
+* Co-authored and presented conference paper
+* Implemented FastAI tabular model using MDVP voice features
+* Focused on Parkinson’s disease identification from voice data
+
+🔗 Paper: https://ieeexplore.ieee.org/document/9680650
+
+📌 Note:
+This work represents an earlier stage of my research.
+My current GitHub projects extend this work with improved modeling, evaluation, and performance.
+
+🔗 Related projects:
+
+* https://github.com/dans2303/parkinsons-fastai
+* https://github.com/dans2303/parkinsons-xgboost
+
+---
+
 ## 🚀 What I Do
 
 * Build machine learning pipelines for biomedical data
@@ -45,7 +68,6 @@ A complete research-oriented pipeline combining:
 ---
 
 ## 📫 Contact
-
 
 * 📧 [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
 
