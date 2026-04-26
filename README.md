@@ -1,7 +1,9 @@
 # Hi, I'm Danisa 👋
 
 🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)
+
 🔬 Biomedical AI | Machine Learning | Explainable AI
+
 🎯 Focus: Voice-based Parkinson’s Disease Detection
 
 ---
@@ -123,6 +125,7 @@ Git, Jupyter, Anaconda
 ## 📫 Contact
 
 📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
 
 ---
