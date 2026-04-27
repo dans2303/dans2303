@@ -1,9 +1,7 @@
 # Hi, I'm Danisa 👋
 
 🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)
-
 🔬 Biomedical AI | Machine Learning | Explainable AI
-
 🎯 Focus: Voice-based Parkinson’s Disease Detection
 
 ---
@@ -38,8 +36,8 @@ An end-to-end system for **non-invasive Parkinson’s detection using voice biom
 
 * Full pipeline: preprocessing → modeling → evaluation → deployment
 * Model comparison (ML vs Deep Learning)
-* Explainable AI integrated into user-facing system
-* Real-time interaction via web interface
+* Explainable AI integrated into a user-facing system
+* Real-time interaction via web application
 
 👉 **Key idea:**
 Not only predicting disease, but explaining *why* the model makes decisions.
@@ -115,9 +113,9 @@ Git, Jupyter, Anaconda
 
 ## 🎯 Current Focus
 
-* Advancing biomedical AI research
+* Biomedical AI and healthcare applications
 * Explainable machine learning (XAI)
-* AI system integration (ML + application layer)
+* Integrating ML models into real-world systems
 * Preparing for PhD-level research in AI/ML
 
 ---
@@ -125,7 +123,6 @@ Git, Jupyter, Anaconda
 ## 📫 Contact
 
 📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
-
 🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
 
 ---
