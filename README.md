@@ -1,10 +1,8 @@
 # Hi, I'm Danisa 👋
 
-🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)
-
-🔬 Biomedical AI | Machine Learning | Explainable AI
-
-🎯 Focus: Voice-based Parkinson’s Disease Detection
+🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)  
+🔬 Biomedical AI | Machine Learning | LLM Systems  
+🎯 Focus: Parkinson’s Disease Detection & AI Applications  
 
 ---
 
@@ -12,125 +10,121 @@
 
 I work at the intersection of:
 
-* **Biomedical AI** → voice-based disease detection
-* **Machine Learning** → model development & evaluation
-* **Explainable AI (XAI)** → making model decisions interpretable
+* **Biomedical AI** → voice-based disease detection  
+* **Machine Learning & Deep Learning** → model development and evaluation  
+* **LLM Systems (RAG)** → building AI systems that reason over knowledge  
 
-My goal is to build AI systems that are not only accurate,
-but also **understandable and usable in real-world contexts**.
-
----
-
-## 🔥 Featured Project
-
-### 🧠 Parkinson’s Disease Detection with Explainable AI
-
-An end-to-end system for **non-invasive Parkinson’s detection using voice biomarkers**, extended with interpretability and AI-generated explanations.
-
-**Core components:**
-
-* 📊 Machine Learning → Gradient Boosting, XGBoost
-* 🧠 Explainability → SHAP (feature-level contribution)
-* 🤖 AI Layer → LLM-based explanation of predictions
-* 🌐 Application → Streamlit interactive system
-
-**What makes this project strong:**
-
-* Full pipeline: preprocessing → modeling → evaluation → deployment
-* Model comparison (ML vs Deep Learning)
-* Explainable AI integrated into a user-facing system
-* Real-time interaction via web application
-
-👉 **Key idea:**
-Not only predicting disease, but explaining *why* the model makes decisions.
-
-📌 Main Repository:
-https://github.com/dans2303/parkinsons-disease-detection
+My goal is to build AI systems that are not only accurate,  
+but also **interpretable, reliable, and usable in real-world applications**.
 
 ---
 
-## 🧪 Applied System Project
+## 🚀 Featured Projects
 
-### Science Lab Management System
+### 🔹 Biomedical RAG Research Assistant
+A Retrieval-Augmented Generation (RAG) system for answering research questions from biomedical papers.
 
-A full system designed for **real school laboratory operations**.
+* FastAPI backend + Streamlit UI  
+* ChromaDB vector search + SentenceTransformers  
+* OpenAI API for LLM-based reasoning  
+* Source citation (paper + page)  
 
-**Features:**
+📌 https://github.com/dans2303/biomedical-rag-assistant  
 
-* 📅 Lab booking with conflict detection
-* 📊 Usage dashboard
-* 📦 Inventory & labeling system
-* 🔄 Borrow / return workflow
-* 🛠 Admin panel with log-book system
+---
 
-**Tech Stack:**
+### 🔹 Parkinson’s Disease Detection with Explainable AI
+End-to-end system for **non-invasive Parkinson’s detection using voice biomarkers**.
 
-* Frontend → React + TypeScript
-* Backend → Google Apps Script + Sheets + Calendar
+* Machine Learning → Gradient Boosting, XGBoost  
+* Explainability → SHAP (feature-level contribution)  
+* AI Layer → LLM-based explanation of predictions  
+* Streamlit-based interactive application  
 
-**Significance:**
+📌 https://github.com/dans2303/parkinsons-disease-detection  
 
-This project demonstrates my ability to build
-**practical systems with real users and operational constraints**,
-complementing my research work in AI.
+---
 
-🔗 Repository:
-https://github.com/dans2303/science-lab-management-website
+### 🔹 Parkinson’s Disease Detection (ML Pipeline)
+Structured ML pipeline using voice features.
+
+* Feature engineering (jitter, shimmer, MFCC)  
+* Class imbalance handling (SMOTE)  
+* Model training and evaluation (XGBoost)  
+
+📌 https://github.com/dans2303/parkinsons-xgboost  
+
+---
+
+### 🔹 Parkinson’s Severity Prediction (Deep Learning)
+Deep learning approach using FastAI for tabular biomedical data.
+
+* Tabular deep learning (FastAI)  
+* Severity prediction (regression)  
+* Comparison with classical ML  
+
+📌 https://github.com/dans2303/parkinsons-fastai  
+
+---
+
+### 🔹 Science Lab Management System
+A real-world system for managing school laboratory operations.
+
+* Lab booking & scheduling  
+* Inventory management  
+* Admin workflow system  
+* React + Tailwind + Google Apps Script  
+
+📌 https://github.com/dans2303/science-lab-management-website  
 
 ---
 
 ## 📄 Research
 
-### FastAI Tabular Learner for Parkinson’s Disease Identification
+### FastAI Tabular Learner for Parkinson’s Disease Identification  
+📍 IEEE ICOT Conference  
 
-📍 IEEE ICOT Conference
+* Co-authored and presented research work  
+* Applied deep learning on MDVP voice features  
+* Focused on early detection of Parkinson’s disease  
 
-* Co-authored and presented research work
-* Applied FastAI tabular models on MDVP voice features
-* Focused on early detection of Parkinson’s Disease
-
-🔗 Paper:
-https://ieeexplore.ieee.org/document/9680650
-
-📌 Note:
-This represents an earlier stage of my work.
-My current projects extend this research with improved modeling, evaluation, and explainability.
+🔗 https://ieeexplore.ieee.org/document/9680650  
 
 ---
 
 ## 🛠️ Technical Stack
 
-**Languages**
-Python, MATLAB, TypeScript, JavaScript
+**Languages**  
+Python, MATLAB, TypeScript, JavaScript  
 
-**Machine Learning**
-Scikit-learn, XGBoost, FastAI
-(Currently expanding into PyTorch)
+**AI / ML**  
+Scikit-learn, XGBoost, FastAI, PyTorch  
 
-**Systems & Tools**
-Streamlit, React, Google Apps Script
-Git, Jupyter, Anaconda
+**LLM & RAG**  
+OpenAI API, ChromaDB, SentenceTransformers  
+
+**Systems & Tools**  
+FastAPI, Streamlit, React, Google Apps Script  
+Git, Jupyter, Anaconda  
 
 ---
 
 ## 🎯 Current Focus
 
-* Biomedical AI and healthcare applications
-* Explainable machine learning (XAI)
-* Integrating ML models into real-world systems
-* Preparing for PhD-level research in AI/ML
+* Building LLM-based AI systems (RAG, AI agents)  
+* Applying AI to biomedical and real-world problems  
+* Preparing for AI Engineer roles and PhD opportunities  
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)
-
-🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
+📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/  
 
 ---
 
 ## ✨ Philosophy
 
-> Build AI systems that are not only intelligent,
-> but also interpretable and meaningful for real-world use.
+> Build AI systems that are not only intelligent,  
+> but also interpretable, reliable, and meaningful for real-world use.
