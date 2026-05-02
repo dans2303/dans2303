@@ -1,94 +1,99 @@
 # Hi, I'm Danisa 👋
 
-🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)  
-🔬 Biomedical AI | Machine Learning | LLM Systems  
-🎯 Focus: Parkinson’s Disease Detection & AI Applications  
+🎓 M.Sc. Electrical Engineering — National Central University (Taiwan)
+
+🧠 **Biomedical AI Researcher & ML Engineer**  
+🎯 Focus: **Voice-Based Parkinson’s Disease Detection & Interpretable AI (XAI)**
 
 ---
 
 ## 🧠 About Me
 
-I work at the intersection of:
+I build **AI systems for real-world biomedical applications**, with a focus on:
 
-* **Biomedical AI** → voice-based disease detection  
-* **Machine Learning & Deep Learning** → model development and evaluation  
-* **LLM Systems (RAG)** → building AI systems that reason over knowledge  
+- **Voice-Based Disease Detection** → non-invasive Parkinson’s screening  
+- **Machine Learning & Deep Learning** → model development and evaluation  
+- **Explainable AI (XAI)** → making predictions interpretable and trustworthy  
 
-My goal is to build AI systems that are not only accurate,  
-but also **interpretable, reliable, and usable in real-world applications**.
+I also explore **LLM-based systems (RAG)** to enhance AI reasoning and usability.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Biomedical RAG Research Assistant
-A Retrieval-Augmented Generation (RAG) system for answering research questions from biomedical papers.
+### 🧠 Parkinson’s Disease Detection with Explainable AI *(Flagship Project)*
 
-* FastAPI backend + Streamlit UI  
-* ChromaDB vector search + SentenceTransformers  
-* OpenAI API for LLM-based reasoning  
-* Source citation (paper + page)  
+An end-to-end system for **non-invasive Parkinson’s detection using voice biomarkers**, enhanced with interpretability and AI-assisted explanations.
 
-📌 https://github.com/dans2303/biomedical-rag-assistant  
+- 📊 Machine Learning → Gradient Boosting, XGBoost  
+- 🧠 Explainability → SHAP (feature-level contribution)  
+- 🤖 AI Layer → LLM-generated explanation of predictions  
+- 🌐 Interactive App → Streamlit interface  
 
----
-
-### 🔹 Parkinson’s Disease Detection with Explainable AI
-End-to-end system for **non-invasive Parkinson’s detection using voice biomarkers**.
-
-* Machine Learning → Gradient Boosting, XGBoost  
-* Explainability → SHAP (feature-level contribution)  
-* AI Layer → LLM-based explanation of predictions  
-* Streamlit-based interactive application  
-
-📌 https://github.com/dans2303/parkinsons-disease-detection  
+📌 https://github.com/dans2303/parkinsons-disease-detection
 
 ---
 
-### 🔹 Parkinson’s Disease Detection (ML Pipeline)
-Structured ML pipeline using voice features.
+### 🔬 Parkinson’s ML Pipeline (Structured Modeling)
 
-* Feature engineering (jitter, shimmer, MFCC)  
-* Class imbalance handling (SMOTE)  
-* Model training and evaluation (XGBoost)  
+A structured machine learning pipeline for voice-based Parkinson’s detection.
 
-📌 https://github.com/dans2303/parkinsons-xgboost  
+- Feature engineering (jitter, shimmer, MFCC)  
+- Class imbalance handling (SMOTE)  
+- Model training & evaluation (XGBoost)  
 
----
-
-### 🔹 Parkinson’s Severity Prediction (Deep Learning)
-Deep learning approach using FastAI for tabular biomedical data.
-
-* Tabular deep learning (FastAI)  
-* Severity prediction (regression)  
-* Comparison with classical ML  
-
-📌 https://github.com/dans2303/parkinsons-fastai  
+📌 https://github.com/dans2303/parkinsons-xgboost
 
 ---
 
-### 🔹 Science Lab Management System
-A real-world system for managing school laboratory operations.
+### 🧠 Parkinson’s Severity Prediction (Deep Learning)
 
-* Lab booking & scheduling  
-* Inventory management  
-* Admin workflow system  
-* React + Tailwind + Google Apps Script  
+Deep learning approach for predicting disease severity using tabular biomedical data.
 
-📌 https://github.com/dans2303/science-lab-management-website  
+- FastAI Tabular model  
+- Regression-based severity prediction  
+- Comparison with classical ML  
+
+📌 https://github.com/dans2303/parkinsons-fastai
+
+---
+
+### 🔍 Biomedical RAG Research Assistant
+
+A Retrieval-Augmented Generation (RAG) system for answering questions from biomedical research papers.
+
+- FastAPI backend + Streamlit UI  
+- ChromaDB vector search + SentenceTransformers  
+- LLM-based reasoning with source citation  
+
+📌 https://github.com/dans2303/biomedical-rag-assistant
+
+---
+
+### 🏫 Science Lab Management System
+
+A real-world system for managing laboratory operations in a school environment.
+
+- Lab booking & scheduling  
+- Inventory management system  
+- Admin workflow automation  
+
+Tech: React + Tailwind + Google Apps Script  
+
+📌 https://github.com/dans2303/science-lab-management-website
 
 ---
 
 ## 📄 Research
 
-### FastAI Tabular Learner for Parkinson’s Disease Identification  
+**FastAI Tabular Learner for Parkinson’s Disease Identification**  
 📍 IEEE ICOT Conference  
 
-* Co-authored and presented research work  
-* Applied deep learning on MDVP voice features  
-* Focused on early detection of Parkinson’s disease  
+- Co-authored and presented research  
+- Applied deep learning on voice-based biomarkers  
+- Focused on early detection of Parkinson’s disease  
 
-🔗 https://ieeexplore.ieee.org/document/9680650  
+🔗 https://ieeexplore.ieee.org/document/9680650
 
 ---
 
@@ -111,20 +116,20 @@ Git, Jupyter, Anaconda
 
 ## 🎯 Current Focus
 
-* Building LLM-based AI systems (RAG, AI agents)  
-* Applying AI to biomedical and real-world problems  
-* Preparing for AI Engineer roles and PhD opportunities  
+- Advancing **interpretable AI for healthcare**  
+- Building **AI systems from research → deployment**  
+- Preparing for **AI Engineer roles & PhD opportunities**
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [mirnadanisat@gmail.com](mailto:mirnadanisat@gmail.com)  
-🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/  
+📧 Email: mirnadanisat@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mirnadanisatandjung/
 
 ---
 
 ## ✨ Philosophy
 
-> Build AI systems that are not only intelligent,  
-> but also interpretable, reliable, and meaningful for real-world use.
+Build AI systems that are not only accurate,  
+but also **interpretable, reliable, and meaningful in real-world use**.
